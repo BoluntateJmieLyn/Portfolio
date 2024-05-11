@@ -52,7 +52,7 @@ export default function Home(){
                         </Link>
                     </div>  
                 </div>
-                <p className="flex footerCreds opacity-40 text-xs justify-center sm:justify-center md:justify-end lg:justify-end ">Jmie Lyn L. Boluntate © 2024</p>
+                <p className="flex footerCreds opacity-40 text-xs justify-center sm:justify-center md:justify-end lg:justify-end font-semibold">Jmie Lyn L. Boluntate © 2024</p>
 
             </footer>
         </>
