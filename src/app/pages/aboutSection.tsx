@@ -7,7 +7,7 @@ export default function AboutSection(){
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 lg:mt-24 md:mt-24 sm:mt-0 mt-0">
             <TitleHeader title="Know More About Me!"/>
             <div className="flex flex-col sm:flex-row justify-center items-center gap-3 sm:gap-12 md:gap-20">
-                <Image className="rounded-full size-1/4" alt="icon" src="/me.jpeg" width={500} height={500} />
+                <Image className="rounded-lg size-1/6" alt="icon" src="/me.jpeg" width={500} height={500} />
                 <div className="h-[50vh] w-[100%] sm:h-[40vh] sm:w-[90vh] md:w-[60vh] md:h-[60vh] lg:h-[60vh] lg:w-[100vh] flex overflow-auto overscroll-contain content-start sm:content-center aboutContainer">
                     <div className="w-full h-full sm:w-full sm:h-full md:w-full md:h-full lg:w-full lg:h-full self-center text-xs md:text-sm lg:text-base text-center text-wrap sm:text-justify lg:p-5 md:p-5 sm:p-5 p-5 whitespace-pre">
                         <p>Hey there, I&apos;m Jmie Lyn Boluntate, a passionate individual who is very ambitious, motivated, and a person who always seek for more. Through out my 4 years of residency at Gordon College, taking Bachelor of Science in Information Technology, I gained essential skills and knowledge. And my stay ignited my passion to always seek for improvement and to learn for more.</p>
