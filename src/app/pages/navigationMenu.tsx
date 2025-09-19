@@ -17,9 +17,9 @@ export function NavigationMenuDemo() {
     <NavigationMenu>
       <NavigationMenuList>
         <NavigationMenuItem >
-          <Link href="#about" scroll legacyBehavior passHref>
+          <Link href="#home" scroll legacyBehavior passHref>
             <NavigationMenuLink className={`fontFamily ${navigationMenuTriggerStyle()}`}>
-                About
+                Home
             </NavigationMenuLink>
           </Link>
         </NavigationMenuItem>

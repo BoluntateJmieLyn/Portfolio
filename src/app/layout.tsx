@@ -10,7 +10,7 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
     title: "Portfolio",
-    description: "made by Jmie Lyn",
+    description: "This is a porfolio to showcase skills and projects. This is made using next js, tailwind, and shadcn components",
 };
 
 export default function RootLayout({
