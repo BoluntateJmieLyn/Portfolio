@@ -23,11 +23,11 @@ export const carouselData = [
 
       ],
       [
-        { src: "/otap1.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
-        { src: "/otap2.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
-        { src: "/otap3.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
-        { src: "/otap4.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
-        { src: "/otap5.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
+        { src: "/o-tap1.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
+        { src: "/o-tap2.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
+        { src: "/o-tap3.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
+        { src: "/o-tap4.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
+        { src: "/o-tap5.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
         { src: "/otap6.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
         { src: "/otap7.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
         { src: "/otap8.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
