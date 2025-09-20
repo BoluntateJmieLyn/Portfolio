@@ -7,17 +7,33 @@ const otapBadge = ["Laravel", "HTML", "Bootstrap", "Javascript", "Chart.js"];
 
 export const carouselData = [
     [
-        { src: "/vox.PNG", alt: voxTitle, description: voxDescription, badges: laravelBadge },
         { src: "/voxd.PNG", alt: voxTitle, description: voxDescription, badges: laravelBadge },
         { src: "/vox1.PNG", alt: voxTitle, description: voxDescription, badges: laravelBadge },
+        { src: "/vox2.PNG", alt: voxTitle, description: voxDescription, badges: laravelBadge },
+        { src: "/vox.PNG", alt: voxTitle, description: voxDescription, badges: laravelBadge },
+        { src: "/vox3.PNG", alt: voxTitle, description: voxDescription, badges: laravelBadge },
+        { src: "/vox4.PNG", alt: voxTitle, description: voxDescription, badges: laravelBadge },
+        { src: "/vox5.PNG", alt: voxTitle, description: voxDescription, badges: laravelBadge },
+        { src: "/voxf.PNG", alt: voxTitle, description: voxDescription, badges: laravelBadge },
+        { src: "/vox6.PNG", alt: voxTitle, description: voxDescription, badges: laravelBadge },
+        { src: "/vox7.PNG", alt: voxTitle, description: voxDescription, badges: laravelBadge },
+        { src: "/vox8.PNG", alt: voxTitle, description: voxDescription, badges: laravelBadge },
+        { src: "/vox9.PNG", alt: voxTitle, description: voxDescription, badges: laravelBadge },
+        { src: "/vox10.PNG", alt: voxTitle, description: voxDescription, badges: laravelBadge },
+
       ],
       [
-        { src: "/Otap1.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
-        { src: "/Otap2.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
-        { src: "/Otap3.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
-        { src: "/Otap4.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
-        { src: "/Otap5.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
-
+        { src: "/otap1.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
+        { src: "/otap2.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
+        { src: "/otap3.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
+        { src: "/otap4.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
+        { src: "/otap5.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
+        { src: "/otap6.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
+        { src: "/otap7.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
+        { src: "/otap8.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
+        { src: "/otap9.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
+        { src: "/otap10.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
+        { src: "/otap11.png", alt: otapTitle , description: otapDescription, badges: otapBadge},
     ],
 ];
   
